@@ -39,7 +39,7 @@ void mousePressed() {
 }
 
 void keyReleased(){
-  if(key == 's' || key == 'S')saveFrame(timestamp()+"_number" + rule + ".png");
+  if(key == 's' || key == 'S')saveFrame(timestamp()+"_rule" + rule + ".png");
 }
 
 
