@@ -28,8 +28,6 @@ void draw() {
   }
   
   image(img1, 0, 0);
-  
-  saveFrame("frames/####.png");
 }
 
 void mousePressed() {
