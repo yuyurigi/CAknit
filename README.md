@@ -6,5 +6,6 @@
   <br>
   テキストファイルからルールナンバーでパターンを読み込みます。単調なためスキップしたいルールや、色の塗りかたを逆にしたいルールもテキストファイルで指定しています。<br>
   <br>
-  ルールナンバー参照：https://plato.stanford.edu/entries/cellular-automata/supplement.html
+  ルールナンバー参照：https://plato.stanford.edu/entries/cellular-automata/supplement.html<br>
+  <br>
 processing使用バージョン：3.5.4
