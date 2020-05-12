@@ -6,4 +6,3 @@
   <br>
 processing使用バージョン：3.5.4<br>
   <br>
-  <iframe src="https://player.vimeo.com/video/417713395" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
